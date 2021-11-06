@@ -1,0 +1,18 @@
+{
+   "version": "0.2.0",
+   "configurations": [
+	   {
+	       "name": "Packt Bahs-Debug",
+	       "type": "bashdb",
+	       "request": "launch",
+	       "scriptPath": "${command:SelectScriptName}",
+	       "commandLineArguments": "",
+	       "": {
+	           "bashPath": "bash"
+	       },
+	       "osx": {
+	           "bashPath": "bash"
+	       }	       
+	   }
+    ]
+}

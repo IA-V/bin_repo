@@ -24,6 +24,6 @@ cur_dir1=`pwd`
 cur_dir2=$(pwd)
 
 echo $cur_dir1
-echo $cur_dir2
 
+echo $cur_dir1
 exit 0
